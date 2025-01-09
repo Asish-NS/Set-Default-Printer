@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGoXpW2YSFs=",
+  "success": true,
+  "projectFilePath": "D:\\.net_project\\DefaultPrinterSwitch\\printerswitch\\printerswitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "printerswitch": {
+      "commandName": "Project",
+      "commandLineArgs": "Fax"
+    }
+  }
+}
